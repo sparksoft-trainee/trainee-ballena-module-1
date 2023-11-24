@@ -1,4 +1,4 @@
-﻿# Trainee-Ballena AWS Amplify Study Plan - Day 9
+﻿# Trainee-Ballena AWS Amplify Study Plan - Day 10
 
 This study plan is designed to help you learn the AWS Amplify tech stack over the course of 22 days, dedicating 8 hours per day from Monday to Friday.
 
